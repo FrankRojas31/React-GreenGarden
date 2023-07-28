@@ -1,0 +1,543 @@
+.navegador {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 159px;
+    background: rgba(115, 175, 85, 1);
+    opacity: 1;
+    overflow: hidden;
+}
+
+.inicio {
+    width: 177px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 276px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.nosotros {
+    width: 275px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 448px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.categorias {
+    width: 310px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 681px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.contacto {
+    width: 260px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 918px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_10 {
+    width: 100%;
+    height: 187px;
+    background: rgba(115, 175, 85, 1);
+    opacity: 1;
+    position: absolute;
+    top: 868px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v38_11 {
+    width: 149px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 188px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_12 {
+    width: 149px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 485px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_13 {
+    width: 194px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 820px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_14 {
+    width: 210px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 1140px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_15 {
+    width: 491px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 936px;
+    left: 490px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v38_39 {
+    width: 100px;
+    height: 97px;
+    background: rgba(217, 217, 217, 1);
+    opacity: 1;
+    position: absolute;
+    top: 152px;
+    left: 1327px;
+    border-radius: 50%;
+}
+
+.v38_41 {
+    width: 59px;
+    height: 59px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.imagen {
+    position: relative;
+    border-radius: 104px;
+}
+
+.text {
+    position: absolute;
+    width: 258px;
+    height: 147px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    color: #000000;
+    left: 350px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.imagen1 {
+    background: url(images1.png);
+    top: 100px;
+    margin-top: 160px;
+
+}
+
+.imagen2 {
+    background: url(imagen2.png);
+    top: 34%;
+    margin-top: 142px;
+
+}
+
+
+.imagen3 {
+    background: url(imagen3.png);
+    position: absolute;
+    top: 1%;
+    left: 1100px;
+    margin-top: 160px;
+
+}
+
+.imagen4 {
+    background: url(imagen4.png);
+    position: absolute;
+    margin-top: 142px;
+    top: 43%;
+    left: 1100px;
+
+
+}
+
+.text1 {
+    position: absolute;
+    width: 258px;
+    height: 147px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    color: #000000;
+    left: 250px;
+    top: 5%;
+    margin-top: 160px;
+
+}
+
+.text2 {
+    position: absolute;
+    width: 258px;
+    height: 147px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    color: #000000;
+    left: 250px;
+    top: 60%;
+
+
+}
+
+.text3 {
+    position: absolute;
+    width: 258px;
+    height: 147px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    color: #000000;
+    left: 1325px;
+    top: 6%;
+    margin-top: 160px;
+
+}
+
+.text4 {
+    position: absolute;
+    width: 258px;
+    height: 147px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: justify;
+    color: #000000;
+    left: 1325px;
+    top: 42%;
+    margin-top: 200px;
+}
+
+.number1 {
+    position: absolute;
+    width: 28px;
+    height: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+
+
+.button1.clicked {
+    transform: scale(0.95);
+}
+
+.clicked {
+    transform: scale(0.95);
+}
+
+
+.button1 {
+    position: absolute;
+    width: 180px;
+    height: 35px;
+    font-family: 'Inter';
+    top: 15%;
+    left: 580px;
+    padding-right: 30px;
+    background-color: #59FA3E;
+    ;
+    border-radius: 15px;
+    margin-bottom: 200px;
+    margin-top: 160px;
+
+
+
+}
+
+.button1::before {
+    content: "\f07a";
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 18px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+    margin-bottom: 200px;
+
+}
+
+.button2 {
+    position: absolute;
+    width: 180px;
+    height: 35px;
+    top: 51%;
+    left: 580px;
+    font-family: 'Inter';
+    padding-right: 30px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+    margin-top: 200px;
+}
+
+.button2::before {
+    content: "\f07a";
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 18px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+}
+
+.button3 {
+    position: absolute;
+    width: 180px;
+    height: 35px;
+    left: 1650px;
+    top: 15%;
+    font-family: 'Inter';
+    padding-right: 30px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+    margin-top: 160px;
+
+}
+
+.button3::before {
+    content: "\f07a";
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 18px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+}
+
+.button4 {
+    position: absolute;
+    width: 180px;
+    height: 35px;
+    left: 1650px;
+    top: 51%;
+    font-family: 'Inter';
+    padding-right: 30px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+    margin-top: 200px;
+
+}
+
+.button4::before {
+    content: "\f07a";
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 18px;
+    background-color: #59FA3E;
+    border-radius: 15px;
+}
+
+.tex11 {
+    position: absolute;
+    width: 20px;
+    height: 38px;
+    left: 635px;
+    top: 8%;
+    margin-top: 160px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    margin-bottom: 200px;
+    content: "- ";
+    display: flex;
+    margin-left: 5px;
+    content: " +";
+    display: flex;
+    margin-right: 5px;
+
+}
+
+.tex12 {
+    position: absolute;
+    width: 20px;
+    height: 38px;
+    left: 635px;
+    top: 44%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    margin-top: 200px;
+    content: "- ";
+    display: flex;
+    margin-left: 5px;
+    content: " +";
+    display: flex;
+    margin-right: 5px;
+
+
+}
+
+.tex13 {
+    position: absolute;
+    width: 20px;
+    height: 38px;
+    left: 1700px;
+    top: 8%;
+    margin-top: 160px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    content: "- ";
+    display: flex;
+    margin-left: 5px;
+    content: " +";
+    display: flex;
+    margin-right: 5px;
+}
+
+
+
+.tex14 {
+    position: absolute;
+    width: 20px;
+    height: 38px;
+    left: 1700px;
+    top: 44%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    margin-top: 200px;
+    content: "- ";
+    display: flex;
+    margin-left: 5px;
+    content: " +";
+    display: flex;
+    margin-right: 5px;
+
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+}
+
+
+.btn-container {
+    pointer-events: auto;
+    position: relative;
+
+}
+
+.btn-cancelar {
+    position: absolute;
+    bottom: 10%;
+    left: 0;
+    font-size: 18px;
+    padding: 15px 30px;
+    background-color: red;
+}
+
+.btn-pagar {
+    position: absolute;
+    top: 84%;
+    right: 0;
+    font-size: 18px;
+    padding: 15px 30px;
+    background-color: #59FA3E;
+}

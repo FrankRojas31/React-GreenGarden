@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.rectangle-container {
+    position: absolute;
+    top:95px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 400px; /* Ajusta el ancho del rectángulo según tus necesidades */
+    height:90px; /* Ajusta la altura del rectángulo según tus necesidades */
+    background-color: #ffffff; /* Cambia el color de fondo del rectángulo aquí */
+    border-radius: 50px; /* Ajusta el radio de los bordes redondeados aquí */
+}
+
+.rectangle-text {
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    color: #000000; /* Cambia el color del texto aquí */
+    
+}

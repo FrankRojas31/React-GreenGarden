@@ -1,0 +1,221 @@
+.navegador {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 159px;
+    background: rgba(115, 175, 85, 1);
+    opacity: 1;
+    overflow: hidden;
+}
+
+.inicio {
+    width: 177px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 276px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.nosotros {
+    width: 275px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 448px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.categorias {
+    width: 310px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 681px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.contacto {
+    width: 260px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 48px;
+    left: 918px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 30px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_10 {
+    width: 100%;
+    height: 187px;
+    background: rgba(115, 175, 85, 1);
+    opacity: 1;
+    position: absolute;
+    top: 868px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v38_11 {
+    width: 149px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 188px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_12 {
+    width: 149px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 485px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_13 {
+    width: 194px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 820px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_14 {
+    width: 210px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 887px;
+    left: 1140px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v38_15 {
+    width: 491px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 936px;
+    left: 490px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v38_39 {
+    width: 100px;
+    height: 97px;
+    background: rgba(217, 217, 217, 1);
+    opacity: 1;
+    position: absolute;
+    top: 152px;
+    left: 1327px;
+    border-radius: 50%;
+}
+
+
+.v38_41 {
+    width: 59px;
+    height: 59px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 46px;
+    color: #ffffff;
+    border: 2px solid #000000;
+    padding: 10px 20px;
+    background-color: #42AF3C;
+    border-radius: 15px;
+    margin-top: 128px;
+}
+
+#botones-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 180px;
+    margin-bottom: 150px;
+}
+
+.btn {
+    margin-bottom: 30px;
+    padding: 15px 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffffff;
+    background-color: #42AF3C;
+    border-radius: 15px;
+}
+
+.bg-finalizacion {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: columnn;
+    background-image: url('../images/fondofi.jpg');
+    background-size: cover;
+    height:1000px;
+
+}
+
+
+.section img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    opacity: 150%;
+}
