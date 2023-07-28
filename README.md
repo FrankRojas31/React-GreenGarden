@@ -41,7 +41,7 @@ Green Garden ofrece las siguientes características:
 
 ## Autor
 
-Esta aplicación web fue desarrollada con amor por [Tu Nombre](tu_sitio_web_o_email).
+Esta aplicación web fue desarrollada con amor por [Full-Stack. Frank Rojas](tu_sitio_web_o_email).
 
 ## Licencia
 
