@@ -1,6 +1,6 @@
 # Green Garden - Aplicación web de Jardinería en React
 
-![Green Garden Logo](https://github.com/FrankRojas31/React-GreenGarden/blob/main/Frontend/src/images/logo-green.png))
+![Green Garden Logo](https://github.com/FrankRojas31/React-GreenGarden/blob/main/Frontend/src/images/logo-green.png)
 ¡Bienvenido a Green Garden! Esta es una aplicación web desarrollada en React que está diseñada para los amantes de la jardinería. Con Green Garden, puedes explorar y aprender sobre diferentes plantas, obtener consejos de cuidado y mantener un registro de tus plantas y jardines.
 
 ## Instalación
